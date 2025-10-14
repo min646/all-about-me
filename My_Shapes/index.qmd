@@ -1,18 +1,7 @@
 # UTS-4 My SHAPE (Spiritual Gifts, Heart, Abilities, Personality, Experiences)
 
 ---
-title: "UTS-4 My SHAPE — Mineva Azzahra"
-format: html
-editor: visual
----
-
-------------------------------------------------------------------------
-
-## 
-
----
-title: "UTS-4 My SHAPE — Mineva Azzahra"
-author: "Mineva Azzahra"
+title: "UTS-4 My SHAPE"
 format: html
 editor: visual
 ---
