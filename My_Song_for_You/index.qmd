@@ -1,160 +1,39 @@
 # UTS-2 My Songs for You
 
-Post Wedding Kawah Putih
-Lirik by Armein Z. R. Langi
-Music: SUNO
+---
+title: "UTS-2 My Songs for You"
+format: html
+editor: visual
+---
 
-{{< video https://youtu.be/KWthEImJ9mY?si=iUV8Ghhj0R3gKQyZ>}}, with lyrics
+> *For you, and by you—I meant, myself.*
 
-Engkau
-[Intro]
-[verse1]
-Mereka bilang perlu Ribuan kata 
-untuk menyatakan cinta. 
-Tapi satu-satunya kata yang kutemukan
- adalah: engkau…
+## Sebelah Mata
 
-[Verse 2]
-Hidup bergerak begitu deras 
-Siang malam datang dan pergi. 
-Mereka bilang semua itu 
-akan melunturkan cinta kita…
+{{< video https://youtu.be/u5aHyZV0CTI?si=zNwUnuZnOY9taS2E>}}
 
+> Tapi sebelah mataku yang lain menyadari
+>
+> Gelap adalah teman setia
+>
+> Dari waktu-waktu yang hilang
 
-[Chorus 1]
-Tetapi engkau masih di sini, 
-dengan tatapan cinta. 
-Engkau selalu di sini 
-dengan hati penuh kasih. 
+Bukan genre lagu yang biasanya saya nikmati, tapi atmosfernya sangat menghanyutkan. Entah mengapa ini jadi salah satu lagu yang paling sering saya putar di tahun 2024. Jadi pengingat bahwa tidak semua hal harus selalu ceria dan penuh semangat.
 
-[Chorus 2]
-Tahun demi tahun berlalu
-Cintamu menjadikan semua ini 
-begitu indah, Begitu bermakna. 
-Begitu menggairahkan.
+## In My Mouth
 
-[Verse4]
-Peristiwa menimpa seperti badai tercurah dari langit. 
-Menerjang seperti seretan sungai. 
-Melemparku ke dalam dan ke luar, ke atas dan ke bawah, 
-menghanyutkanku gelagapan ke samudera raya…
+{{< video https://youtu.be/cIi4SxZ0IC8?si=EeUQOrJCeDpnrkRK>}}
 
-[Chorus 1]
-Tetapi engkau masih di sini, 
-dengan tatapan cinta. 
-Engkau selalu di sini 
-dengan hati penuh kasih. 
+> I don't feel like I can be anything more than this
+>
+> I don't really want to be anything more than this
+>
+> I just wanna be whatever you want me to be
+>
+> I don't wanna have a soul
 
-[Chorus 2]
-Tahun demi tahun berlalu
-Cintamu menjadikan semua ini 
-begitu indah, Begitu bermakna. 
-Begitu menggairahkan.
+Lagu ini salah satu tipe musik yang saya sukai dan ada kenangan tersendiri. Lagunya menyajikan ekspresi emosi yang sangat jujur dan mentah, sulit diungkapkan dengan kata-kata biasa. Perpaduan antara lirik yang intens tentang kehancuran diri, dan keinginan akan koneksi, dengan musik yang abrasif, menciptakan pengalaman katarsis bagi saya sendiri.
 
-[Coda 1]
-Sadarkah engkau 
-bahwa engkau telah menemukan 
-hukum baru tentang cinta? 
+Mendengarkan ini mungkin seperti ada di pusat badai. Tapi intinya, ada keheningan. Semua orang bisa melewati kekacauan dalam keadaan utuh.
 
-[Coda 2]
-Bahwa satu tambah satu sama dengan satu
-Satu kali satu adalah tak hingga? 
-Dua kurang satu sama dengan kosong. 
-Segala sesuatu tanpa engkau adalah tiada…?
-
-[Chorus 1]
-Tetapi engkau masih di sini, 
-dengan tatapan cinta. 
-Engkau selalu di sini 
-dengan hati penuh kasih. 
-
-[Chorus 2]
-Tahun demi tahun berlalu
-Cintamu menjadikan semua ini 
-begitu indah, Begitu bermakna. 
-Begitu menggairahkan.
-[Outro]
-
-
-Why am I singing for you? [River on my Mind](./Rivers%20In%20My%20Mind.mp3)
-, with lyrics
-
-River on my mind
-[Verse]
-I do not know what has happened with your life
-I do not know how much you have suffered
-What I know is how to be me
-And I am still learning
-
-[Chorus]
-I hope you find my song beautifully caring for you
-I hope you find my song beautifully caring for you
-
-[Verse]
-You deserve a caring heart
-And all of the most beautiful parts of this world
-You deserve a gentle touch
-And a soft place to land when you fall
-
-[Chorus]
-I hope you find my song beautifully caring for you
-I hope you find my song beautifully caring for you
-
-[Bridge]
-I hope you find my song beautifully caring for you
-I hope you find my song beautifully caring for you
-I hope you find my song beautifully caring for you
-I hope you find my song beautifully caring for you
-
-
-Falling in love everyday [Heaven on Earth](./Heaven%20on%20Earth.mp3), with lyrics
-
-Heaven on Earth
-[Verse]
-The breeze whispers soft to the sea
-A rhythm flows like it’s meant to be
-Every step feels lighter
-Free
-
-
-[Verse 2]
-The sunlight dances on your skin
-Every moment a new song begins
-Even the stars seem to lean in
-fresh
-
-[Chorus]
-Fall in love
-Fall in love
-Every day
-Let your heart find a brand-new way
-Heaven's here
-It’s not far above
-Life is beautiful when you love
-
-[Verse 2]
-The sunlight dances on your skin
-Every moment a new song begins
-Even the stars seem to lean in
-
-[Prechorus]
-Close your eyes
-Let it start
-Feel the world inside your heart
-
-[Chorus]
-Fall in love
-Fall in love
-Every day
-Let your heart find a brand-new way
-Heaven's here
-It’s not far above
-Life is beautiful when you love
-
-[Bridge]
-Catch the rain as it falls on your face
-Hear the laughter
-It fills every space
-Time is fleeting
-Don’t let it erase
-This heaven we chase
+*Kamu pusatnya, bukan korbannya*.
