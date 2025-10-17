@@ -75,7 +75,7 @@ editor: visual
 | **UTS-3 My Stories for You** | 5.00 | A+ |
 | **UTS-4 My SHAPE** | 4.75 | A |
 | **Rata-rata Keseluruhan** | **4.50 / 5.00 (A)** |
-------------------------------------------------------------------------
+---
 
 ### Kesimpulan
 
