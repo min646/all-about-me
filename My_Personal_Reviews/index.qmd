@@ -6,7 +6,7 @@ format: html
 editor: visual
 ---
 
-> *“Penilaian ini bukan sekadar angka, melainkan cermin dari proses belajar yang membentuk karakter, nilai, dan arah berkarya.”*
+> "Asik yah."
 
 ------------------------------------------------------------------------
 
