@@ -27,7 +27,7 @@ bibliography: references.bib
 format:
   html:
     theme:
-      - morph
+      - brite
       - brand
   pdf:
     documentclass: scrreprt
