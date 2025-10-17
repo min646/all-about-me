@@ -1,82 +1,78 @@
-# > My Personal Reviews
+# \> My Personal Reviews
 
 ---
-title: "5 My Personal Reviews"
+title: "My Personal Reviews"
 format: html
 editor: visual
 ---
 
 > *“Penilaian ini bukan sekadar angka, melainkan cermin dari proses belajar yang membentuk karakter, nilai, dan arah berkarya.”*
 
----
+------------------------------------------------------------------------
 
 ### UTS 1 — All About Me
 
-| Kriteria        | Nilai | Catatan Singkat                                                                          |
-| :-------------- | :---: | :--------------------------------------------------------------------------------------- |
-| **Keterbacaan** |   5   | Narasi jelas dan terstruktur dengan baik, mudah diikuti dari awal hingga akhir.            |
-| **Narasi** |   5   | Gaya bercerita personal yang kuat, berhasil memperkenalkan identitas dan nilai-nilai inti. |
-| **Kedalaman** |   4   | Refleksi yang baik, namun bisa diperdalam dengan contoh spesifik untuk beberapa klaim.   |
-| **Keaslian** |   5   | Sangat otentik; suara penulis terasa jujur dan konsisten di seluruh bagian.              |
+| Kriteria | Nilai | Catatan Singkat |
+|:-------------|:------------:|:-------------------------------------------|
+| **Keterbacaan** | 5 | Narasi jelas dan terstruktur dengan baik, mudah diikuti dari awal hingga akhir. |
+| **Narasi** | 5 | Gaya bercerita personal yang kuat, berhasil memperkenalkan identitas dan nilai-nilai inti. |
+| **Kedalaman** | 4 | Refleksi yang baik, namun bisa diperdalam dengan contoh spesifik untuk beberapa klaim. |
+| **Keaslian** | 5 | Sangat otentik; suara penulis terasa jujur dan konsisten di seluruh bagian. |
 
-**Rata-rata : 4.75 (A)**
-**Komentar:** Pengenalan diri yang reflektif, jujur, dan komunikatif. Berhasil menggambarkan identitas penulis dengan sangat baik.
+**Rata-rata : 4.75 (A)** **Komentar:** Pengenalan diri yang reflektif, jujur, dan komunikatif. Berhasil menggambarkan identitas penulis dengan sangat baik.
 
----
+------------------------------------------------------------------------
 
 ### UTS 2 — My Song for You
 
-| Kriteria        | Nilai | Catatan Singkat                                                                         |
-| :-------------- | :---: | :-------------------------------------------------------------------------------------- |
-| **Keterbacaan** |   5   | Struktur yang rapi dan penjelasan yang jernih untuk setiap lagu.                        |
-| **Narasi** |   4   | Narasi personal yang kuat, namun bisa diperkaya lagi dengan konteks pengalaman.         |
-| **Kedalaman** |   5   | Refleksi mendalam tentang bagaimana musik menjadi sarana katarsis dan pemberdayaan diri. |
-| **Keaslian** |   5   | Pilihan lagu dan interpretasi emosional terasa sangat unik dan tidak klise.             |
+| Kriteria | Nilai | Catatan Singkat |
+|:-------------|:------------:|:-------------------------------------------|
+| **Keterbacaan** | 5 | Struktur yang rapi dan penjelasan yang jernih untuk setiap lagu. |
+| **Narasi** | 4 | Narasi personal yang kuat, namun bisa diperkaya lagi dengan konteks pengalaman. |
+| **Kedalaman** | 5 | Refleksi mendalam tentang bagaimana musik menjadi sarana katarsis dan pemberdayaan diri. |
+| **Keaslian** | 5 | Pilihan lagu dan interpretasi emosional terasa sangat unik dan tidak klise. |
 
-**Rata-rata : 4.75 (A)**
-**Komentar:** Tulus dan menyentuh; berhasil menggunakan musik sebagai sarana refleksi diri yang mendalam.
+**Rata-rata : 4.75 (A)** **Komentar:** Tulus dan menyentuh; berhasil menggunakan musik sebagai sarana refleksi diri yang mendalam.
 
----
+------------------------------------------------------------------------
 
 ### UTS 3 — My Stories for You
 
-| Kriteria        | Nilai | Catatan Singkat                                                                                  |
-| :-------------- | :---: | :----------------------------------------------------------------------------------------------- |
-| **Keterbacaan** |   5   | Alur cerita mengalir dengan indah, struktur naratif antara cerita dan refleksi sangat jelas.     |
-| **Narasi** |   5   | Gaya penceritaan "show, don't tell" dieksekusi dengan sempurna; menciptakan atmosfer yang kuat. |
-| **Kedalaman** |   5   | Koneksi antara memori masa kecil dengan filosofi hidup menunjukkan tingkat refleksi yang luar biasa. |
-| **Keaslian** |   5   | Suara penulis sangat otentik, unik, dan konsisten. Pengalaman membaca terasa sangat personal.  |
+| Kriteria | Nilai | Catatan Singkat |
+|:-------------|:------------:|:-------------------------------------------|
+| **Keterbacaan** | 5 | Alur cerita mengalir dengan indah, struktur naratif antara cerita dan refleksi sangat jelas. |
+| **Narasi** | 5 | Gaya penceritaan "show, don't tell" dieksekusi dengan sempurna; menciptakan atmosfer yang kuat. |
+| **Kedalaman** | 5 | Koneksi antara memori masa kecil dengan filosofi hidup menunjukkan tingkat refleksi yang luar biasa. |
+| **Keaslian** | 5 | Suara penulis sangat otentik, unik, dan konsisten. Pengalaman membaca terasa sangat personal. |
 
-**Rata-rata : 5.00 (A+)**
-**Komentar:** Karya terbaik dari keseluruhan seri; matang secara estetika, naratif, dan penuh makna.
+**Rata-rata : 5.00 (A+)** **Komentar:** Karya terbaik dari keseluruhan seri; matang secara estetika, naratif, dan penuh makna.
 
----
+------------------------------------------------------------------------
 
 ### UTS 4 — My SHAPE
 
-| Kriteria        | Nilai | Catatan Singkat                                                                                          |
-| :-------------- | :---: | :------------------------------------------------------------------------------------------------------- |
-| **Keterbacaan** |   5   | Dokumen sangat terstruktur, logis, dan mudah dinavigasi.                                                 |
-| **Narasi** |   5   | Benang merah yang kuat menghubungkan setiap elemen SHAPE menjadi sebuah narasi profesional yang koheren.  |
-| **Kedalaman** |   5   | Analisis sangat mendalam, melampaui deskripsi dan masuk ke ranah nilai serta prinsip operasional.         |
-| **Keaslian** |   4   | Sangat pribadi, namun dapat diperkuat dengan contoh konkret atau bukti kegiatan untuk beberapa poin.     |
+| Kriteria | Nilai | Catatan Singkat |
+|:-------------|:------------:|:-------------------------------------------|
+| **Keterbacaan** | 5 | Dokumen sangat terstruktur, logis, dan mudah dinavigasi. |
+| **Narasi** | 5 | Benang merah yang kuat menghubungkan setiap elemen SHAPE menjadi sebuah narasi profesional yang koheren. |
+| **Kedalaman** | 5 | Analisis sangat mendalam, melampaui deskripsi dan masuk ke ranah nilai serta prinsip operasional. |
+| **Keaslian** | 4 | Sangat pribadi, namun dapat diperkuat dengan contoh konkret atau bukti kegiatan untuk beberapa poin. |
 
-**Rata-rata : 4.75 (A)**
-**Komentar:** Komprehensif dan strategis; berhasil menerjemahkan analisis diri menjadi piagam kerja yang *actionable*.
+**Rata-rata : 4.75 (A)** **Komentar:** Komprehensif dan strategis; berhasil menerjemahkan analisis diri menjadi piagam kerja yang *actionable*.
 
----
+------------------------------------------------------------------------
 
 ### Rangkuman Nilai Akhir
 
-| UTS                   | Rata-rata           | Tingkat |
-| :-------------------- | :-----------------: | :-----: |
-| **UTS-1 All About Me** | 4.75                |    A    |
-| **UTS-2 My Song for You** | 4.75                |    A    |
-| **UTS-3 My Stories for You** | 5.00                |   A+    |
-| **UTS-4 My SHAPE** | 4.75                |    A    |
-| **Rata-rata Keseluruhan** | **4.81 / 5.00 (A)** |         |
+| UTS                          |      Rata-rata      | Tingkat |
+|:-----------------------------|:-------------------:|:-------:|
+| **UTS-1 All About Me**       |        4.75         |    A    |
+| **UTS-2 My Song for You**    |        4.75         |    A    |
+| **UTS-3 My Stories for You** |        5.00         |   A+    |
+| **UTS-4 My SHAPE**           |        4.75         |    A    |
+| **Rata-rata Keseluruhan**    | **4.81 / 5.00 (A)** |         |
 
----
+------------------------------------------------------------------------
 
 ### Saran Pengembangan
 
@@ -88,7 +84,7 @@ editor: visual
 
 4.  **Variasikan Nada Emosional.** Gaya reflektif Anda sangat kuat. Sesekali, sisipkan dinamika atau humor yang lebih ringan untuk memberikan ritme yang berbeda dan menunjukkan spektrum kepribadian yang lebih luas.
 
----
+------------------------------------------------------------------------
 
 ### Kesimpulan
 

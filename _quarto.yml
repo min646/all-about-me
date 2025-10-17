@@ -27,7 +27,7 @@ bibliography: references.bib
 format:
   html:
     theme:
-      - brite
+      - journal
       - brand
   pdf:
     documentclass: scrreprt

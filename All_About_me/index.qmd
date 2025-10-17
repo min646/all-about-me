@@ -1,7 +1,7 @@
-# 1 > All About Me
+# \> All About Me
 
 ---
-title: "1 All About Me"
+title: "All About Me"
 author: "Mineva Azzahra"
 format: html
 editor: visual
