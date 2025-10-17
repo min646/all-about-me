@@ -1,12 +1,12 @@
-# UTS-4 My SHAPE (Spiritual Gifts, Heart, Abilities, Personality, Experiences)
+# \> My SHAPE
 
 ---
-title: "UTS-4 My SHAPE"
+title: "4 My SHAPE"
 format: html
 editor: visual
 ---
 
-> **Tujuan:** Merangkum rancangan diri (charter) agar saya dapat belajar, berkarya, dan bertumbuh secara paling selaras dengan panggilan dan pengalaman unik saya. Dapat langsung ditempel ke halaman **UTS-4 — My SHAPE** dan dipakai sebagai acuan aksi 90 hari.
+> **Tujuan:** Merangkum rancangan diri agar saya dapat belajar, berkarya, dan bertumbuh secara paling selaras dengan panggilan dan pengalaman unik saya. Dokumen ini berfungsi sebagai acuan aksi untuk 90 hari ke depan dan seterusnya.
 
 ------------------------------------------------------------------------
 
@@ -30,7 +30,7 @@ editor: visual
 
 ------------------------------------------------------------------------
 
-## 1) S — Panggilan Inti (Core Calling)
+## S — Panggilan Inti (Core Calling)
 
 -   **Analisis & Sintesis:** Kemampuan untuk mengurai masalah kompleks menjadi komponen logis dan menyatukannya kembali menjadi sebuah solusi yang koheren.
 -   **Empati:** Dorongan untuk memahami "mengapa" di balik tindakan pengguna; menempatkan diri pada posisi mereka untuk menemukan titik masalah yang sebenarnya.
@@ -38,7 +38,7 @@ editor: visual
 
 ------------------------------------------------------------------------
 
-## 2) H — Heart (Minat Profesional & Gairah Intelektual)
+## H — Heart (Minat Profesional & Gairah Intelektual)
 
 -   **Desain Berpusat pada Pengguna:** Ketertarikan mendalam pada proses menciptakan produk yang tidak hanya berfungsi baik, tetapi juga mudah dan menyenangkan untuk digunakan.
 -   **Psikologi dalam Teknologi:** Gairah untuk mempelajari bagaimana pikiran manusia bekerja dan menerapkan wawasan tersebut untuk membangun interaksi digital yang lebih baik.
@@ -47,7 +47,7 @@ editor: visual
 
 ------------------------------------------------------------------------
 
-## 3) A — Abilities (Kemampuan Andal)
+## A — Abilities (Kemampuan Andal)
 
 -   **Analisis Sistem & Proses:** Mampu memetakan alur kerja, mengidentifikasi *bottlenecks*, dan merancang proses yang lebih efisien.
 -   **Dasar-dasar Desain UI/UX:** Menguasai prinsip-prinsip desain antarmuka dan pengalaman pengguna, serta mampu membuat prototipe awal menggunakan Figma.
@@ -56,7 +56,7 @@ editor: visual
 
 ------------------------------------------------------------------------
 
-## 4) P — Personality (Gaya Kerja Profesional)
+## P — Personality (Gaya Kerja Profesional)
 
 -   **Metodis & Terstruktur:** Bekerja dengan pendekatan langkah-demi-langkah, memastikan setiap detail dipertimbangkan.
 -   **Mandiri & Proaktif:** Tidak menunggu instruksi; aktif mencari masalah untuk dipecahkan dan mengambil inisiatif untuk memulai.
@@ -65,7 +65,7 @@ editor: visual
 
 ------------------------------------------------------------------------
 
-## 5) E — Experiences (Pengalaman Pembentuk)
+## E — Experiences (Pengalaman Pembentuk)
 
 -   **Proyek Akademis STI:** Melatih kemampuan analisis, kerja tim, dan manajemen proyek dalam lingkungan yang terstruktur dan berorientasi pada hasil.
 -   **Pengambilan Keputusan Sadar:** Pengalaman pribadi yang mengajarkan pentingnya agensi dan keberanian dalam mengambil keputusan untuk menentukan arah, bahkan saat menghadapi ketidakpastian.
@@ -74,7 +74,7 @@ editor: visual
 
 ------------------------------------------------------------------------
 
-## 6) Piagam Diri (Self-Charter)
+## Piagam Diri
 
 **Misi Profesional:** Menjadi jembatan antara dunia teknis dan kebutuhan manusia, dengan merancang solusi teknologi yang didasari oleh data, logika, dan empati yang mendalam.
 
@@ -88,6 +88,12 @@ editor: visual
 
 ------------------------------------------------------------------------
 
-## 7) Narasi 90 Detik (Elevator Pitch)
+## Narasi
 
-"Saya Mineva, seorang mahasiswa Sistem dan Teknologi Informasi yang bersemangat menjembatani antara kode dan manusia. Saya percaya teknologi terbaik adalah yang terasa 'tak terlihat' karena sangat mudah digunakan. Dengan kemampuan
+Ketertarikan saya pada Sistem dan Teknologi Informasi lahir dari keyakinan bahwa di balik setiap kerumitan, selalu ada pola yang bisa ditemukan. Saya melihat dunia sebagai kumpulan sistem yang saling terhubung dan menemukan kepuasan dalam mengurainya.
+
+Di bangku kuliah, keyakinan itu semakin terasah. Saya belajar bahwa merancang sistem yang baik bukan hanya tentang efisiensi kode, tetapi tentang empati, kemampuan untuk memahami alur pikir pengguna. Saya menemukan bahwa teknologi terbaik bukanlah yang paling rumit, melainkan yang paling intuitif.
+
+Namun, saya sadar bahwa tidak semua hal bisa diurai dengan logika. Melalui tulisan dan musik, saya memahami spektrum emosi manusia yang lebih kompleks, mengajarkan bahwa pemahaman utuh datang dari analisis dan perenungan.
+
+Ke depan, saya ingin terus berkarya di titik pertemuan antara analisis sistem dan pengalaman manusia. Saya tidak hanya ingin membangun aplikasi, tetapi merancang interaksi yang menghargai waktu dan perhatian penggunanya. Baik melalui baris kode yang elegan atau tulisan yang jujur, tujuan saya tetap sama: menciptakan ruang yang lebih sederhana dan terfokus, agar kita bisa lebih mudah terhubung dengan apa yang benar-benar penting.

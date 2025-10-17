@@ -1,14 +1,14 @@
-# UTS-2 My Songs for You
+# > My Songs for You
 
 ---
-title: "UTS-2 My Songs for You"
+title: "2 My Songs for You"
 format: html
 editor: visual
 ---
 
-> *For you, and by you—I meant, myself.*
+> *Songs I have personal connection with.*
 
-## Sebelah Mata
+## To Life Itself? - Sebelah Mata
 
 {{< video https://youtu.be/u5aHyZV0CTI?si=zNwUnuZnOY9taS2E>}}
 
@@ -20,7 +20,7 @@ editor: visual
 
 Bukan genre lagu yang biasanya saya nikmati, tapi atmosfernya sangat menghanyutkan. Entah mengapa ini jadi salah satu lagu yang paling sering saya putar di tahun 2024. Jadi pengingat bahwa tidak semua hal harus selalu ceria dan penuh semangat.
 
-## In My Mouth
+## For Myself - In My Mouth
 
 {{< video https://youtu.be/cIi4SxZ0IC8?si=EeUQOrJCeDpnrkRK>}}
 

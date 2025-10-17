@@ -1,7 +1,7 @@
-# UTS-3 My Stories for You
+# > My Stories for You
 
 ---
-title: "UTS-3 My Stories for You"
+title: "3 My Stories for You"
 format: html
 editor: visual
 ---

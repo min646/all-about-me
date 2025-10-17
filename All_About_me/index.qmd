@@ -1,7 +1,7 @@
-# UTS-1 All About Me
+# 1 > All About Me
 
 ---
-title: "UTS-1 All About Me"
+title: "1 All About Me"
 author: "Mineva Azzahra"
 format: html
 editor: visual
