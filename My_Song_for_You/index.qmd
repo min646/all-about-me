@@ -10,7 +10,7 @@ editor: visual
 
 ## To Life Itself?
 
-## Sebelah Mata
+### Sebelah Mata
 
 {{< video https://youtu.be/u5aHyZV0CTI?si=zNwUnuZnOY9taS2E>}}
 
@@ -24,7 +24,7 @@ Bukan genre lagu yang biasanya saya nikmati, tapi atmosfernya sangat menghanyutk
 
 ## For Myself
 
-## In My Mouth
+### In My Mouth
 
 {{< video https://youtu.be/cIi4SxZ0IC8?si=EeUQOrJCeDpnrkRK>}}
 
