@@ -1,17 +1,13 @@
 # UTS-1 All About Me
 
-<p style="text-align: center;">
+------------------------------------------------------------------------
 
-</p>
+## Selamat Datang! \^. .\^
 
----
+Saya **Mineva Azzahra**! seorang mahasiswi Sistem dan Teknologi Informasi dari Bandung.
 
-## Selamat Datang! ₍^. .^₎⟆
+------------------------------------------------------------------------
 
-Saya **Mineva Azzahra**! seorang mahasiswi Sistem dan Teknologi Informasi dari Bandung. 
-
----
-
-## Bingkai Berpikir: Penumpang atau Pengemudi?
+## Bingkai Berpikir
 
 Dalam hidup, ada dua cara memandang perjalanan: sebagai penumpang yang pasrah mengikuti arus, atau sebagai pengemudi yang sadar memegang kendali. Konsep psikologis tentang *Locus of Control* menyadarkan saya bahwa keyakinan akan kendali diri bukanlah takdir, melainkan sebuah pilihan sadar. Saya belajar bahwa merasa berdaya atau tidak berdaya sering kali dimulai dari cara kita membingkai cerita kita sendiri. Apakah hidup ini sesuatu yang *terjadi pada saya*, atau sesuatu yang *saya jalani*?
