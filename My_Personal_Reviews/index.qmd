@@ -8,77 +8,70 @@ editor: visual
 
 > "Asik yah."
 
----
+[Peer Review](https://github.com/min646/all-about-me/blob/main/My_Personal_Reviews/UTS-5_Skor.xlsx)
+
+------------------------------------------------------------------------
 
 ### 1 — All About Me
 
 | Kriteria | Nilai | Catatan Singkat |
-|:--|:--:|:--|
+|:---------------------|:--------------------------:|:---------------------|
 | **Orisinalitas** | 5 | Ide dan narasi sangat personal, mencerminkan identitas unik penulis. |
 | **Keterlibatan** | 4 | Gaya tulisan menarik, namun bisa lebih diperkuat untuk membangun koneksi emosional yang lebih dalam. |
 | **Humor** | 3 | Fokus pada nada reflektif dan serius; humor bukan elemen utama dalam tulisan ini. |
 | **Wawasan** | 5 | Menunjukkan kesadaran diri yang tinggi dan koneksi yang jelas antara nilai pribadi dengan tujuan. |
 
-**Rata-rata : 4.25 (A)**
-**Komentar:** Fondasi yang sangat kuat dengan narasi personal yang otentik. Refleksi diri yang ditampilkan menunjukkan pemikiran yang matang.
+**Rata-rata : 4.25 (A)** **Komentar:** Fondasi yang sangat kuat dengan narasi personal yang otentik. Refleksi diri yang ditampilkan menunjukkan pemikiran yang matang.
 
----
+------------------------------------------------------------------------
 
 ### 2 — My Song for You
 
 | Kriteria | Nilai | Catatan Singkat |
-|:--|:--:|:--|
+|:---------------------|:--------------------------:|:---------------------|
 | **Orisinalitas** | 4 | Pilihan lagu unik dan interpretasi personal, namun narasi bisa lebih diperkaya dengan konteks spesifik. |
 | **Keterlibatan** | 4 | Mampu membawa pembaca ke dalam suasana reflektif lagu-lagu yang dipilih. |
 | **Humor** | 3 | Nada tulisan cenderung serius dan introspektif, sesuai dengan tema lagu. |
 | **Inspirasi** | 5 | Pesan penutup tentang "menjadi pusat, bukan korban" sangat kuat dan inspiratif. |
 
-**Rata-rata : 4.00 (A)**
-**Komentar:** Berhasil menunjukkan kedalaman emosional dan kemampuan untuk menarik makna personal dari sebuah karya seni.
+**Rata-rata : 4.00 (A)** **Komentar:** Berhasil menunjukkan kedalaman emosional dan kemampuan untuk menarik makna personal dari sebuah karya seni.
 
----
+------------------------------------------------------------------------
 
 ### 3 — My Stories for You
 
 | Kriteria | Nilai | Catatan Singkat |
-|:--|:--:|:--|
+|:---------------------|:--------------------------:|:---------------------|
 | **Orisinalitas** | 5 | Gaya penceritaan sangat otentik dan unik, menciptakan pengalaman membaca yang sangat personal. |
 | **Keterlibatan** | 5 | Narasi "show, don't tell" dieksekusi sempurna, sangat berhasil menarik pembaca ke dalam cerita. |
 | **Pengembangan Narasi** | 5 | Struktur cerita dan refleksi sangat solid; alur dan tempo penceritaan terkontrol dengan sangat baik. |
 | **Inspirasi** | 5 | Pesan tentang agensi diri dan tanggung jawab personal tersampaikan secara mendalam dan berkesan. |
 
-**Rata-rata : 5.00 (A+)**
-**Komentar:** Sebuah karya tulis yang luar biasa. Matang secara naratif, emosional, dan filosofis. Titik puncak dari seri ini.
+**Rata-rata : 5.00 (A+)** **Komentar:** Sebuah karya tulis yang luar biasa. Matang secara naratif, emosional, dan filosofis. Titik puncak dari seri ini.
 
----
+------------------------------------------------------------------------
 
 ### 4 — My SHAPE
 
 | Kriteria | Nilai | Catatan Singkat |
-|:--|:--:|:--|
+|:---------------------|:--------------------------:|:---------------------|
 | **Orisinalitas** | 5 | Analisis terasa lahir dari refleksi nyata dan pengalaman pribadi, bukan sekadar mengisi template. |
 | **Keterlibatan** | 5 | Struktur yang logis dan benang merah yang kuat membuat dokumen ini sangat menarik dan mudah diikuti. |
 | **Keautentikan** | 4 | Sangat otentik, namun bisa diperkuat lagi dengan contoh/bukti konkret dari pengalaman yang disebutkan. |
 | **Inspirasi** | 5 | Bagian "Piagam Diri" dan "Kompas Keputusan" sangat inspiratif dan dapat ditindaklanjuti (*actionable*). |
 
-**Rata-rata : 4.75 (A)**
-**Komentar:** Analisis diri yang sangat komprehensif dan strategis. Berhasil mengubah refleksi menjadi sebuah panduan kerja yang jelas.
+**Rata-rata : 4.75 (A)** **Komentar:** Analisis diri yang sangat komprehensif dan strategis. Berhasil mengubah refleksi menjadi sebuah panduan kerja yang jelas.
 
----
+------------------------------------------------------------------------
 
 ### Rangkuman Nilai Akhir
 
-| UTS | Rata-rata | Tingkat |
-|:--|:--:|:--|
-| **UTS-1 All About Me** | 4.25 | A |
-| **UTS-2 My Song for You** | 4.00 | A |
-| **UTS-3 My Stories for You** | 5.00 | A+ |
-| **UTS-4 My SHAPE** | 4.75 | A |
-| **Rata-rata Keseluruhan** | **4.50 / 5.00 (A)** |
----
+| UTS                          |      Rata-rata      | Tingkat |
+|:-----------------------------|:-------------------:|:--------|
+| **UTS-1 All About Me**       |        4.25         | A       |
+| **UTS-2 My Song for You**    |        4.00         | A       |
+| **UTS-3 My Stories for You** |        5.00         | A+      |
+| **UTS-4 My SHAPE**           |        4.75         | A       |
+| **Rata-rata Keseluruhan**    | **4.50 / 5.00 (A)** |         |
 
-### Kesimpulan
-
-Seluruh karya pada repositori *All About Me* menunjukkan **perkembangan kepribadian dan refleksi diri yang konsisten, cerdas, dan mendalam.** Setiap UTS memperlihatkan kematangan berpikir serta keaslian ekspresi yang khas. Tulisan-tulisan Anda tidak hanya memenuhi rubrik akademik, tetapi juga berhasil menjadi potret perjalanan intelektual dan personal yang otentik.
-
-> *“Menjadi reflektif bukan berarti berhenti, melainkan melangkah dengan lebih sadar akan arah dan makna.”*
+------------------------------------------------------------------------
