@@ -1,2 +1,3 @@
-# asesmen-2025
-repositori tugas mahasiswa
+# ASESMEN-2025
+
+my repositori gweh
