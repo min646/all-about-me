@@ -1,4 +1,4 @@
-# /> My Knowledge
+# \> My Knowledge
 
 ---
 title: "My Knowledge"
@@ -12,34 +12,32 @@ editor: visual
 
 ------------------------------------------------------------------------
 
-*Menyelesaikan Paradoks Pendidikan Rekayasa dengan Pendekatan Naratif*
+*Menyelesaikan Paradoks Pendidikan dengan Pendekatan Naratif*
 
-Untuk mengajarkan paradigma rekayasa yang kompleks di era AI, metode konvensional (kuliah satu arah) sudah usang. Oleh karena itu, saya merumuskan kembali metodologi **VALORISE** ke dalam bahasa yang saya pahami: bahasa kepenulisan dan desain sistem.
+Untuk mengajarkan paradigma rekayasa yang kompleks di era AI, metode konvensional (kuliah satu arah) sudah usang. Oleh karena itu, saya merumuskan kembali beberapa metodologi ke dalam bahasa yang saya pahami: bahasa kepenulisan dan desain sistem.
 
 ### The Paradox
-Tantangan terbesar pendidikan rekayasa saat ini adalah: **Paradoks Agensi.**
-Bagaimana kita menggunakan alat sekuat AI (seperti ChatGPT) tanpa membunuh potensi manusia?
-* Jika AI memberikan semua jawaban koding dan solusi desain, mesin menjadi semakin pintar, tetapi mahasiswa menjadi pasif.
-* Dalam istilah kepenulisan: Jika AI menulis seluruh novelnya, maka manusia bukan lagi "Penulis" (*Author*), melainkan sekadar "Pembaca". Ini adalah kegagalan cerita. Mahasiswa kehilangan peran sebagai **Protagonis** dalam kisah pendidikannya sendiri.
 
----
+Tantangan terbesar pendidikan rekayasa saat ini adalah: **Paradoks Agensi.** Bagaimana kita menggunakan alat sekuat AI (seperti ChatGPT) tanpa membunuh potensi manusia? \* Jika AI memberikan semua jawaban koding dan solusi desain, mesin menjadi semakin pintar, tetapi mahasiswa menjadi pasif. \* Dalam istilah kepenulisan: Jika AI menulis seluruh novelnya, maka manusia bukan lagi "Penulis" (*Author*), melainkan sekadar "Pembaca". Ini adalah kegagalan cerita. Mahasiswa kehilangan peran sebagai **Protagonis** dalam kisah pendidikannya sendiri.
+
+------------------------------------------------------------------------
 
 ### Struktur Kurikulum
+
 Untuk mencegah hal itu, VALORISE membagi kurikulum menjadi dua peta mental, layaknya menyusun sebuah novel fantasi:
 
 #### Peta "Lore"
-Sebelum menulis cerita, penulis harus membangun dunia (*World-Building*).
-* **Konsep:** Ini adalah lapisan fundamental. Mahasiswa harus memahami "Hukum Fisika" dari dunia digital (Algoritma, Struktur Data, Logika *Energon*).
-* **Tujuan:** Memahami aturan main. Kita tidak bisa mematahkan aturan (berinovasi) jika kita tidak memahaminya terlebih dahulu.
+
+Sebelum menulis cerita, penulis harus membangun dunia (*World-Building*). \* **Konsep:** Ini adalah lapisan fundamental. Mahasiswa harus memahami "Hukum Fisika" dari dunia digital (Algoritma, Struktur Data, Logika *Energon*). \* **Tujuan:** Memahami aturan main. Kita tidak bisa mematahkan aturan (berinovasi) jika kita tidak memahaminya terlebih dahulu.
 
 #### Peta "Plot"
-Setelah dunia terbangun, barulah cerita dimulai.
-* **Konsep:** Ini adalah lapisan aplikasi. Mahasiswa menggunakan "Lore" yang mereka pelajari untuk membangun sistem nyata yang memecahkan masalah pengguna.
-* **Tujuan:** Menciptakan dampak. Sebuah kode (sistem) hanya bermakna jika ia menggerakkan plot kehidupan pengguna ke arah yang lebih baik.
 
----
+Setelah dunia terbangun, barulah cerita dimulai. \* **Konsep:** Ini adalah lapisan aplikasi. Mahasiswa menggunakan "Lore" yang mereka pelajari untuk membangun sistem nyata yang memecahkan masalah pengguna. \* **Tujuan:** Menciptakan dampak. Sebuah kode (sistem) hanya bermakna jika ia menggerakkan plot kehidupan pengguna ke arah yang lebih baik.
+
+------------------------------------------------------------------------
 
 ### Alur Perjalanan
+
 Pembelajaran bukanlah garis lurus linear, melainkan sebuah **Busur Cerita (Character Arc)** yang mengikuti pola **Model-W**:
 
 1.  **The Call to Adventure (Kiri Atas - Aplikasi):** Mahasiswa menghadapi masalah nyata di permukaan.
@@ -48,16 +46,16 @@ Pembelajaran bukanlah garis lurus linear, melainkan sebuah **Busur Cerita (Chara
 
 Untuk membuktikan penguasaan, mahasiswa harus lolos uji **Konsistensi Plot (PICOC)**. Setiap klaim solusi harus terbukti logis, dari level fundamental hingga aplikasi, memastikan tidak ada "plot hole" dalam sistem yang mereka buat.
 
----
+------------------------------------------------------------------------
 
 ### Solusi Utama
-Bagaimana kita memastikan AI membantu tapi tidak mengambil alih?
-Jawabannya adalah desain **Agen Pedagogis** dengan prinsip **"Anti-Spoiler"**.
+
+Bagaimana kita memastikan AI membantu tapi tidak mengambil alih? Jawabannya adalah desain **Agen Pedagogis** dengan prinsip **"Anti-Spoiler"**.
 
 Dalam cerita saya, AI bukanlah *Deus Ex Machina* yang tiba-tiba datang menyelesaikan masalah sang pahlawan. Itu adalah penulisan yang buruk. Sebaliknya, AI didesain sebagai **Sidekick** atau **Mentor Bijak**.
 
-* **Aturan Desain:** Agen AI *dilarang* memberikan jawaban langsung (koding jadi).
-* **Mekanisme:** Jika mahasiswa bertanya "Apa jawabannya?", AI akan merespons dengan pertanyaan reflektif: *"Itu tantangan menarik. Apa yang sudah kamu coba? Logika mana yang menurutmu macet?"*
+-   **Aturan Desain:** Agen AI *dilarang* memberikan jawaban langsung (koding jadi).
+-   **Mekanisme:** Jika mahasiswa bertanya "Apa jawabannya?", AI akan merespons dengan pertanyaan reflektif: *"Itu tantangan menarik. Apa yang sudah kamu coba? Logika mana yang menurutmu macet?"*
 
 Ini adalah intervensi yang disengaja. Tujuannya adalah memprovokasi **Penalaran Otobiografis**. AI memaksa mahasiswa untuk berpikir, bergulat dengan masalah, dan akhirnya menemukan solusi dengan kekuatan sendiri.
 

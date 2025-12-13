@@ -1,4 +1,4 @@
-# /> My Innovations
+# \> My Innovations
 
 ---
 title: "My Innovations"
@@ -11,6 +11,7 @@ editor: visual
 ------------------------------------------------------------------------
 
 ## The Story-Engine Architecture (TSEA)
+
 *Adaptasi Naratif dari TISE 2.0 untuk Rekayasa Perangkat Lunak Humanis*
 
 Inovasi utama saya adalah pengembangan **The Story-Engine Architecture (TSEA)**. Ini adalah evolusi dari konsep sistematis TISE 2.0 yang diterjemahkan ke dalam bahasa *Computer Science* dan *Creative Design*.
@@ -20,25 +21,25 @@ TSEA tidak melihat sistem sebagai pabrik data, melainkan sebagai **"Teater Inter
 Berikut adalah komponen arsitektur "Panggung Digital" ini:
 
 ### The Stage (Teater Kerja / Lingkungan Imersif)
-Ini adalah *Front-End* atau antarmuka (UI/UX) yang saya desain. Dalam filosofi saya, ini bukan sekadar menu dan tombol, melainkan **Sub-Ruang** tempat drama pemecahan masalah terjadi.
-* **Fungsi:** Menyediakan konteks visual dan atmosfer bagi pengguna untuk berinteraksi dengan masalah mereka.
+
+Ini adalah *Front-End* atau antarmuka (UI/UX) yang saya desain. Dalam filosofi saya, ini bukan sekadar menu dan tombol, melainkan **Sub-Ruang** tempat drama pemecahan masalah terjadi. \* **Fungsi:** Menyediakan konteks visual dan atmosfer bagi pengguna untuk berinteraksi dengan masalah mereka.
 
 ### Keyframes (Stasiun Nilai)
-Dalam perjalanan pengguna (*User Journey*), ada titik-titik krusial di mana nilai diciptakan.
-* **Analogi:** Seperti "Stasiun A (Ide)" dan "Stasiun B (Karya Jadi)".
-* **Implementasi:** Ini adalah *milestone* dalam aplikasi. Misalnya, dalam aplikasi desain, Keyframe 1 adalah "Kanvas Kosong", Keyframe 2 adalah "Sketsa", Keyframe 3 adalah "Render Final". Di sinilah *User Energon* (kreativitas) diubah menjadi *Product Energon* (hasil digital).
+
+Dalam perjalanan pengguna (*User Journey*), ada titik-titik krusial di mana nilai diciptakan. \* **Analogi:** Seperti "Stasiun A (Ide)" dan "Stasiun B (Karya Jadi)". \* **Implementasi:** Ini adalah *milestone* dalam aplikasi. Misalnya, dalam aplikasi desain, Keyframe 1 adalah "Kanvas Kosong", Keyframe 2 adalah "Sketsa", Keyframe 3 adalah "Render Final". Di sinilah *User Energon* (kreativitas) diubah menjadi *Product Energon* (hasil digital).
 
 ### The Protagonist Code (Kendaraan / Agen PUDAL)
-Untuk bergerak antar *Keyframe*, pengguna membutuhkan "kendaraan". Inilah inovasi intinya: **Agen Cerdas Berbasis PUDAL**.
-Agen ini bukan *script* pasif, melainkan kode yang "hidup" (seperti NPC cerdas dalam *game* RPG) yang mendampingi pengguna. Arsitektur kognitifnya berjalan sebagai berikut:
 
-* **P (Perceive):** Agen "melihat" input pengguna (klik, teks, data sensor).
-* **U (Understand):** Agen memproses logika (Java/Python) untuk memahami konteks masalah.
-* **D (Decision):** Agen memilih algoritma terbaik untuk membantu pengguna.
-* **A (Act):** Agen mengeksekusi kode (SQL Query, Rendering, Network Call).
-* **L (Learning):** Agen menyimpan *feedback* pengguna ke dalam database untuk meningkatkan performa di masa depan.
+Untuk bergerak antar *Keyframe*, pengguna membutuhkan "kendaraan". Inilah inovasi intinya: **Agen Cerdas Berbasis PUDAL**. Agen ini bukan *script* pasif, melainkan kode yang "hidup" (seperti NPC cerdas dalam *game* RPG) yang mendampingi pengguna. Arsitektur kognitifnya berjalan sebagai berikut:
+
+-   **P (Perceive):** Agen "melihat" input pengguna (klik, teks, data sensor).
+-   **U (Understand):** Agen memproses logika (Java/Python) untuk memahami konteks masalah.
+-   **D (Decision):** Agen memilih algoritma terbaik untuk membantu pengguna.
+-   **A (Act):** Agen mengeksekusi kode (SQL Query, Rendering, Network Call).
+-   **L (Learning):** Agen menyimpan *feedback* pengguna ke dalam database untuk meningkatkan performa di masa depan.
 
 ### The Plot Structure (Jaringan Rute / Siklus 7-Langkah)
+
 Agen PUDAL tidak bergerak acak; ia mengikuti "Alur Cerita" yang logis. Dalam istilah teknis, ini adalah **Siklus Pemecahan Masalah 7-Langkah** yang saya tanamkan dalam logika program:
 
 1.  **Exposition (Identifikasi Masalah):** Sistem mendeteksi kebutuhan pengguna.
@@ -48,13 +49,13 @@ Agen PUDAL tidak bergerak acak; ia mengikuti "Alur Cerita" yang logis. Dalam ist
 5.  **Resolution (Selesai):** Masalah terpecahkan, nilai tercipta.
 
 ### The Core Backend (Mesin Energon & Riset Dasar)
-Di balik panggung yang indah dan aktor yang cerdas, ada mesin yang menderu.
-* **CORE Engine:** Ini adalah *Back-End Server* dan *Database*. Ia berfungsi mengubah input mentah (data) menjadi output matang (informasi/visual) melalui siklus *Input-Encode-Decode-Output*.
-* **Bahan Bakar (Riset PSKVE):** Ini adalah pengetahuan fundamental *Computer Science* (Algoritma, Struktur Data, Teori Warna) yang menjadi basis logika mesin. Tanpa riset dasar ini, mesin tidak akan memiliki prinsip kerja yang valid.
+
+Di balik panggung yang indah dan aktor yang cerdas, ada mesin yang menderu. \* **CORE Engine:** Ini adalah *Back-End Server* dan *Database*. Ia berfungsi mengubah input mentah (data) menjadi output matang (informasi/visual) melalui siklus *Input-Encode-Decode-Output*. \* **Bahan Bakar (Riset PSKVE):** Ini adalah pengetahuan fundamental *Computer Science* (Algoritma, Struktur Data, Teori Warna) yang menjadi basis logika mesin. Tanpa riset dasar ini, mesin tidak akan memiliki prinsip kerja yang valid.
 
 ------------------------------------------------------------------------
 
 ## Kesimpulan: Full-Stack Empowerment
+
 Singkatnya, **The Story-Engine Architecture** adalah pendekatan *full-stack* untuk memberdayakan manusia.
 
 Dimulai dari **Riset Dasar** (logika CS), ditenagai oleh **Backend Engine** (server), dieksekusi oleh **Agen PUDAL** (kode cerdas), yang berjalan di atas **Alur Cerita** (algoritma terstruktur), untuk memindahkan pengguna antar **Keyframe** (pencapaian), di dalam **Panggung Digital** yang indah secara visual.

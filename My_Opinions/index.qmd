@@ -1,4 +1,4 @@
-# /> My Opinions
+# \> My Opinions
 
 ---
 title: "My Opinions"
@@ -12,63 +12,62 @@ editor: visual
 
 ------------------------------------------------------------------------
 
-## The "Soul-Code" Paradigm: Merekayasa Perasaan di Atas Logika
+## Merekayasa Perasaan di Atas Logika
 
-**Apa itu opini?** Opini Berpengaruh.
-**Bagaimana menjadi menarik?** Menjadi Relevan dan Berjiwa.
+**Apa itu opini?** Opini Berpengaruh. **Bagaimana menjadi menarik?** Menjadi Relevan dan Berjiwa.
 
 Ini adalah opini tentang transformasi pendidikan rekayasa dari sekadar **Fungsionalitas Teknis** menuju **Resonansi Emosional**, dengan mengusulkan konsep **Immersive Narrative Learning** sebagai solusi agar manusia tetap relevan di hadapan AI.
 
----
+------------------------------------------------------------------------
 
-### I. Krisis: Automasi Tanpa Empati
+### Krisis: Automasi Tanpa Empati
+
 Pendidikan ilmu rekayasa (Computer Science) saat ini menghadapi tantangan eksistensial. AI (seperti GPT atau Copilot) kini mampu menulis kode Java, merancang kueri SQL, bahkan melakukan *debugging* jaringan jauh lebih cepat daripada mahasiswa semester akhir.
 
 Jika pendidikan hanya fokus pada "apakah program ini berjalan tanpa error?", maka kita sedang melatih mahasiswa untuk menjadi **"Robot Kelas Dua"**. AI sudah memenangkan sisi logika dan sintaks. Mahasiswa yang hanya mengandalkan hafalan sintaks atau logika kaku akan kehilangan relevansinya.
 
 Krisis sesungguhnya bukan pada *kemampuan teknis*, melainkan pada **krisis makna**. AI tidak tahu *mengapa* sebuah aplikasi dibuat, atau *bagaimana* perasaan pengguna saat menekan tombol tertentu. AI tidak memiliki empati; manusialah yang memilikinya.
 
----
+------------------------------------------------------------------------
 
-### II. Transformasi: Laboratorium sebagai Studio Bercerita
+### Transformasi: Laboratorium sebagai Studio Bercerita
+
 Ruang kelas dan laboratorium komputer harus berhenti dianggap sebagai pabrik kode. Sebaliknya, ia harus bertransformasi menjadi **Studio Kreatif (World-Building Studio)**.
 
-Sama seperti saat saya menulis novel tentang *Shin* dan *Zei*, seorang rekayasawan perangkat lunak adalah "Penulis". Bedanya, pena kami adalah keyboard dan bahasa kami adalah Java atau Python.
-* **Mahasiswa sebagai Author:** Bukan lagi tukang ketik kode, tapi perancang pengalaman.
-* **Pengguna sebagai Protagonis:** Aplikasi adalah "plot" yang harus dilalui pengguna untuk mencapai tujuan mereka.
+Sama seperti saat saya menulis novel tentang *Shin* dan *Zei*, seorang rekayasawan perangkat lunak adalah "Penulis". Bedanya, pena kami adalah keyboard dan bahasa kami adalah Java atau Python. \* **Mahasiswa sebagai Author:** Bukan lagi tukang ketik kode, tapi perancang pengalaman. \* **Pengguna sebagai Protagonis:** Aplikasi adalah "plot" yang harus dilalui pengguna untuk mencapai tujuan mereka.
 
 Dalam lingkungan ini, tujuannya bukan sekadar "Program Selesai" (output), tetapi "Dampak Terasa" (outcome). Inovasi terjadi ketika logika pemrograman bertemu dengan intuisi desain dan kedalaman cerita.
 
----
+------------------------------------------------------------------------
 
-### III. Solusi: Immersive Narrative Learning
+### Solusi: Immersive Narrative Learning
+
 Untuk menjawab tantangan ini, saya mengusulkan model pembelajaran **Immersive Narrative Learning**. Filosofinya adalah: *Teknologi adalah media penyampaian cerita.*
 
 Dalam model ini, proses belajar rekayasa dibagi menjadi tiga tahap penciptaan:
 
-#### 1. Contextual Coding (Why > How)
-Sebelum menulis satu baris kode pun, mahasiswa harus menetapkan "Premis Cerita".
-* *Bukan:* "Buat aplikasi kasir menggunakan JavaFX."
-* *Melainkan:* "Rancang pengalaman transaksi yang membuat kasir merasa tenang dan pelanggan merasa dihargai."
-Di sini, kode SQL dan Java bukan tujuan akhir, melainkan alat untuk mencapai emosi tersebut. Ini melatih **Empati**.
+#### Contextual Coding (Why \> How)
 
-#### 2. Aesthetic Engineering (Show, Don't Tell)
-Mengadopsi prinsip fiksi dan desain grafis, mahasiswa belajar bahwa antarmuka (UI) adalah ekspresi visual dari logika sistem.
-* Praktek: Mahasiswa tidak hanya dinilai dari algoritma yang efisien, tapi juga dari estetika (pixel art, layout, tipografi) yang intuitif. Jika pengguna bingung, berarti "ceritanya" gagal, betapapun canggih kodenya. Ini melatih **Selera (Taste)**.
+Sebelum menulis satu baris kode pun, mahasiswa harus menetapkan "Premis Cerita". \* *Bukan:* "Buat aplikasi kasir menggunakan JavaFX." \* *Melainkan:* "Rancang pengalaman transaksi yang membuat kasir merasa tenang dan pelanggan merasa dihargai." Di sini, kode SQL dan Java bukan tujuan akhir, melainkan alat untuk mencapai emosi tersebut. Ini melatih **Empati**.
 
-#### 3. The "Alive" Project (Simulasi Bernyawa)
-Tugas akhir bukan lagi sekadar tumpukan file `.java` atau laporan PDF kaku. Tugas adalah sebuah "Produk Hidup".
-* Mahasiswa mempresentasikan karya layaknya *game developer* memamerkan demo. Mereka harus bisa menjelaskan alur emosi pengguna (User Journey) sefasih mereka menjelaskan struktur database-nya.
+#### Aesthetic Engineering (Show, Don't Tell)
 
----
+Mengadopsi prinsip fiksi dan desain grafis, mahasiswa belajar bahwa antarmuka (UI) adalah ekspresi visual dari logika sistem. \* Praktek: Mahasiswa tidak hanya dinilai dari algoritma yang efisien, tapi juga dari estetika (pixel art, layout, tipografi) yang intuitif. Jika pengguna bingung, berarti "ceritanya" gagal, betapapun canggih kodenya. Ini melatih **Selera (Taste)**.
 
-### IV. Penilaian: Portofolio Resonansi (The Resonance Metric)
+#### The "Alive" Project (Simulasi Bernyawa)
+
+Tugas akhir bukan lagi sekadar tumpukan file `.java` atau laporan PDF kaku. Tugas adalah sebuah "Produk Hidup". \* Mahasiswa mempresentasikan karya layaknya *game developer* memamerkan demo. Mereka harus bisa menjelaskan alur emosi pengguna (User Journey) sefasih mereka menjelaskan struktur database-nya.
+
+------------------------------------------------------------------------
+
+### Penilaian: Portofolio Resonansi (The Resonance Metric)
+
 Sistem nilai (grading) bergeser dari **Kebenaran Jawaban** menuju **Kedalaman Resonansi**.
 
-* **Dari Ujian ke Pameran:** Nilai tidak didapat dari lembar jawaban ujian yang bisa dikerjakan AI, melainkan dari **Portofolio Karya**.
-* **Metrik Penilaian Baru:**
-    * **Logic Score:** Apakah sistem berjalan efisien? (Pikiran)
-    * **Aesthetic Score:** Apakah sistem indah dan intuitif? (Mata)
-    * **Narrative Score:** Apakah sistem menyelesaikan masalah pengguna dengan empati? (Hati)
+-   **Dari Ujian ke Pameran:** Nilai tidak didapat dari lembar jawaban ujian yang bisa dikerjakan AI, melainkan dari **Portofolio Karya**.
+-   **Metrik Penilaian Baru:**
+    -   **Logic Score:** Apakah sistem berjalan efisien? (Pikiran)
+    -   **Aesthetic Score:** Apakah sistem indah dan intuitif? (Mata)
+    -   **Narrative Score:** Apakah sistem menyelesaikan masalah pengguna dengan empati? (Hati)
 
 Dengan **Immersive Narrative Learning**, kita tidak mencetak programmer yang takut digantikan AI. Kita mencetak **Arsitek Pengalaman** yang menggunakan AI sebagai alat untuk memperkuat cerita kemanusiaan yang ingin mereka bangun.

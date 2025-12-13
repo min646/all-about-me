@@ -1,3 +1,72 @@
 # Summary
 
-In summary, this book has no content whatsoever.
+![My Istri Gweh](/images/min.jpg){fig-align="center" width="50%"}
+
+## Ringkasan All About Me
+
+Website ini adalah portofolio personal **Mineva Azzahra**, mahasiswi Sistem dan Teknologi Informasi ITB dari Bandung, yang memadukan filosofi teknis, kreativitas, dan refleksi diri.
+
+------------------------------------------------------------------------
+
+### **Profil & Filosofi**
+
+Mineva memperkenalkan dirinya sebagai seseorang yang percaya pada konsep **Locus of Control**—bahwa hidup adalah sesuatu yang dijalani dengan kendali penuh, bukan sesuatu yang terjadi begitu saja. Ia melihat dirinya sebagai sistem unik yang terus belajar memahami interaksi antarmanusia dan teknologi.
+
+### **Konsep Inti: The Trinity of Immersive Experience**
+
+Mineva mengembangkan filosofi rekayasa perangkat lunak yang disebut **"Trinitas Pengalaman Imersif"**, yang menyatukan tiga elemen:
+
+-   **Pikiran (Logika)** — Fondasi teknis, Computer Science, dan struktur kode yang kokoh
+-   **Mata (Estetika)** — Desain visual (UI/UX) yang intuitif dan empatik
+-   **Hati (Narasi)** — Cerita dan makna emosional di balik teknologi
+
+Konsep ini menjadi dasar pandangannya bahwa teknologi harus **fungsional, indah, dan bermakna**.
+
+### **Inovasi: The Story-Engine Architecture (TSEA)**
+
+Ia mengusulkan arsitektur sistem bernama **TSEA** yang memperlakukan perangkat lunak sebagai "teater interaktif":
+
+-   **The Stage** — Antarmuka pengguna (UI/UX)
+-   **Keyframes** — Milestone perjalanan pengguna
+-   **Protagonist Code** — Agen cerdas berbasis PUDAL (Perceive-Understand-Decision-Act-Learning)
+-   **Plot Structure** — Alur pemecahan masalah 7-langkah
+-   **Core Backend** — Mesin server dan database
+
+Inovasi ini bertujuan menciptakan **ko-kreasi narasi** antara pengguna dan sistem.
+
+### **Pandangan tentang Pendidikan & AI**
+
+Mineva kritis terhadap pendidikan rekayasa konvensional di era AI. Ia mengusulkan:
+
+-   **Immersive Narrative Learning** — Belajar melalui cerita dan konteks, bukan sekadar sintaks
+-   **W-Model** — Pembelajaran seperti "busur cerita" dengan eksplorasi fundamental dan aplikasi
+-   **Anti-Spoiler AI Agent** — AI sebagai mentor, bukan pemberi jawaban langsung, agar mahasiswa tetap menjadi "protagonis" dalam perjalanan belajar mereka
+
+Ia percaya bahwa **empati dan kreativitas manusia** adalah senjata melawan dominasi AI dalam logika teknis.
+
+### **SHAPE: Identitas Profesional**
+
+Mineva merangkum dirinya melalui kerangka **SHAPE**:
+
+-   **S (Spiritual Gifts)** — Analisis & sintesis, empati, integritas
+-   **H (Heart)** — Desain berpusat pada pengguna, psikologi dalam teknologi
+-   **A (Abilities)** — Analisis sistem, UI/UX, riset mandiri
+-   **P (Personality)** — Metodis, mandiri, fokus pada solusi
+-   **E (Experiences)** — Proyek akademis, pembelajaran mandiri, analisis media
+
+**Misi profesionalnya:** Menjadi jembatan antara dunia teknis dan kebutuhan manusia.
+
+### **Ekspresi Personal**
+
+-   **My Songs for You** — Koleksi lagu yang mencerminkan perjalanan emosionalnya, dari pencarian ketenangan hingga menemukan kekuatan dari dalam
+-   **My Stories for You** — Cerita formatif tentang menemukan **agensi diri**, simbol dari keyakinannya bahwa setiap orang bertanggung jawab membangun jalan mereka sendiri
+
+### **Review & Penilaian**
+
+Mineva mendokumentasikan evaluasi diri dan profesional dengan rata-rata nilai **4.50-4.81 (A/A+)** untuk karya-karyanya, mencerminkan kedalaman pemikiran, orisinalitas, dan kemampuan komunikasi yang kuat.
+
+------------------------------------------------------------------------
+
+## Kesimpulan
+
+Ini adalah kisah seorang mahasiswa yang memandang teknologi bukan sebagai kode mati, melainkan sebagai medium untuk menciptakan pengalaman yang **logis, indah, dan bermakna**. Mineva tidak hanya ingin membangun aplikasi—ia ingin **merancang dunia** yang bernapas dan menyentuh kemanusiaan penggunanya.

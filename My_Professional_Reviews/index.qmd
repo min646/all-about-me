@@ -11,71 +11,71 @@ editor: visual
 ------------------------------------------------------------------------
 
 ### 1 — UAS-1 My Concepts
+
 **Judul:** The Trinity of Immersive Experience
 
 | Kriteria | Nilai | Catatan Singkat |
 |:---------------------|:--------------------------:|:---------------------|
-| **Clarity (Kejelasan)** | 5 | [cite_start]Metafora "Pikiran, Mata, Hati" dijelaskan dengan sangat jernih, membuat konsep teknis terasa hidup dan mudah dipahami[cite: 251]. |
-| **Logic (Logika)** | 5 | [cite_start]Struktur trinitas (Logika-Estetika-Narasi) sangat koheren dan saling mendukung tanpa cela logika[cite: 251]. |
-| **Validity (Validitas)** | 4 | [cite_start]Argumen didukung oleh penalaran yang kuat, meski bisa ditambahkan lebih banyak bukti teknis spesifik[cite: 251]. |
-| **Usefulness (Kegunaan)** | 5 | [cite_start]Konsep ini memiliki aplikasi praktis yang signifikan sebagai *framework* kerja rekayasawan modern[cite: 254]. |
+| **Clarity (Kejelasan)** | 5 | \[cite_start\]Metafora "Pikiran, Mata, Hati" dijelaskan dengan sangat jernih, membuat konsep teknis terasa hidup dan mudah dipahami\[cite: 251\]. |
+| **Logic (Logika)** | 5 | \[cite_start\]Struktur trinitas (Logika-Estetika-Narasi) sangat koheren dan saling mendukung tanpa cela logika\[cite: 251\]. |
+| **Validity (Validitas)** | 4 | \[cite_start\]Argumen didukung oleh penalaran yang kuat, meski bisa ditambahkan lebih banyak bukti teknis spesifik\[cite: 251\]. |
+| **Usefulness (Kegunaan)** | 5 | \[cite_start\]Konsep ini memiliki aplikasi praktis yang signifikan sebagai *framework* kerja rekayasawan modern\[cite: 254\]. |
 
-**Rata-rata : 4.75 (A)**
-**Komentar:** Sebuah redefinisi yang brilian tentang apa itu "rekayasa". Mengubah paradigma teknis menjadi filosofi penciptaan yang utuh.
+**Rata-rata : 4.75 (A)** **Komentar:** Sebuah redefinisi yang brilian tentang apa itu "rekayasa". Mengubah paradigma teknis menjadi filosofi penciptaan yang utuh.
 
 ------------------------------------------------------------------------
 
 ### 2 — UAS-2 My Opinions
+
 **Judul:** Narrative-Driven Engineering (Paradigma "Soul-Code")
 
 | Kriteria | Nilai | Catatan Singkat |
 |:---------------------|:--------------------------:|:---------------------|
-| **Compelling (Daya Tarik)** | 5 | [cite_start]Pembukaan tentang "Robot Kelas Dua" sangat memikat dan langsung menangkap perhatian pembaca[cite: 353]. |
-| **Informative (Informatif)** | 4 | [cite_start]Memberikan wawasan mendalam tentang krisis pendidikan CS, namun detail implementasi bisa diperkaya[cite: 353]. |
-| **Persuasive (Persuasif)** | 5 | [cite_start]Argumen bahwa AI memenangkan logika dan manusia harus memenangkan empati sangat meyakinkan[cite: 353]. |
-| **Engaging (Keterlibatan)** | 5 | [cite_start]Melibatkan pembaca secara emosional dan intelektual untuk memikirkan ulang peran mereka di masa depan[cite: 357]. |
+| **Compelling (Daya Tarik)** | 5 | \[cite_start\]Pembukaan tentang "Robot Kelas Dua" sangat memikat dan langsung menangkap perhatian pembaca\[cite: 353\]. |
+| **Informative (Informatif)** | 4 | \[cite_start\]Memberikan wawasan mendalam tentang krisis pendidikan CS, namun detail implementasi bisa diperkaya\[cite: 353\]. |
+| **Persuasive (Persuasif)** | 5 | \[cite_start\]Argumen bahwa AI memenangkan logika dan manusia harus memenangkan empati sangat meyakinkan\[cite: 353\]. |
+| **Engaging (Keterlibatan)** | 5 | \[cite_start\]Melibatkan pembaca secara emosional dan intelektual untuk memikirkan ulang peran mereka di masa depan\[cite: 357\]. |
 
-**Rata-rata : 4.75 (A)**
-**Komentar:** Opini yang tajam dan relevan. Berhasil membingkai ketakutan terhadap AI menjadi panggilan untuk evolusi kreatif.
+**Rata-rata : 4.75 (A)** **Komentar:** Opini yang tajam dan relevan. Berhasil membingkai ketakutan terhadap AI menjadi panggilan untuk evolusi kreatif.
 
 ------------------------------------------------------------------------
 
 ### 3 — UAS-3 My Innovations
+
 **Judul:** The Story-Engine Architecture (TSEA)
 
 | Kriteria | Nilai | Catatan Singkat |
 |:---------------------|:--------------------------:|:---------------------|
-| **Clarity (Kejelasan)** | 5 | [cite_start]Analogi "Teater" dan "Aktor" membuat arsitektur sistem yang rumit (PUDAL/TISE) menjadi sangat transparan[cite: 251]. |
-| **Logic (Logika)** | 5 | [cite_start]Alur kerja dari *Stage* hingga *Core Backend* dipetakan dengan logika sistem yang solid dan koheren[cite: 251]. |
-| **Validity (Validitas)** | 4 | [cite_start]Konsep didukung oleh prinsip *Computer Science* yang valid, meski implementasi teknis nyatanya belum diuji[cite: 251]. |
-| **Usefulness (Kegunaan)** | 5 | [cite_start]Sangat bermanfaat sebagai *blueprint* pengembangan perangkat lunak yang humanis[cite: 254]. |
+| **Clarity (Kejelasan)** | 5 | \[cite_start\]Analogi "Teater" dan "Aktor" membuat arsitektur sistem yang rumit (PUDAL/TISE) menjadi sangat transparan\[cite: 251\]. |
+| **Logic (Logika)** | 5 | \[cite_start\]Alur kerja dari *Stage* hingga *Core Backend* dipetakan dengan logika sistem yang solid dan koheren\[cite: 251\]. |
+| **Validity (Validitas)** | 4 | \[cite_start\]Konsep didukung oleh prinsip *Computer Science* yang valid, meski implementasi teknis nyatanya belum diuji\[cite: 251\]. |
+| **Usefulness (Kegunaan)** | 5 | \[cite_start\]Sangat bermanfaat sebagai *blueprint* pengembangan perangkat lunak yang humanis\[cite: 254\]. |
 
-**Rata-rata : 4.75 (A)**
-**Komentar:** Inovasi yang berhasil menerjemahkan arsitektur mesin (back-end) menjadi pengalaman manusia (front-end) dengan sangat mulus.
+**Rata-rata : 4.75 (A)** **Komentar:** Inovasi yang berhasil menerjemahkan arsitektur mesin (back-end) menjadi pengalaman manusia (front-end) dengan sangat mulus.
 
 ------------------------------------------------------------------------
 
 ### 4 — UAS-4 My Knowledge
+
 **Judul:** The Protagonist’s Code (Metodologi Pedagogis)
 
 | Kriteria | Nilai | Catatan Singkat |
 |:---------------------|:--------------------------:|:---------------------|
-| **Clarity (Kejelasan)** | 5 | [cite_start]Penggunaan metafora "Ghostwriter" sangat efektif menjelaskan paradoks pendidikan tanpa ambiguitas[cite: 251]. |
-| **Logic (Logika)** | 5 | [cite_start]Solusi "W-Model" dan "Anti-Spoiler Agent" mengikuti alur penalaran pedagogis yang sangat masuk akal[cite: 251]. |
-| **Validity (Validitas)** | 5 | [cite_start]Validitas tinggi karena menjawab masalah nyata (AI cheating) dengan solusi yang berpusat pada *human agency*[cite: 251]. |
-| **Usefulness (Kegunaan)** | 5 | [cite_start]Sangat aplikatif untuk diterapkan dalam kurikulum pendidikan rekayasa saat ini[cite: 254]. |
+| **Clarity (Kejelasan)** | 5 | \[cite_start\]Penggunaan metafora "Ghostwriter" sangat efektif menjelaskan paradoks pendidikan tanpa ambiguitas\[cite: 251\]. |
+| **Logic (Logika)** | 5 | \[cite_start\]Solusi "W-Model" dan "Anti-Spoiler Agent" mengikuti alur penalaran pedagogis yang sangat masuk akal\[cite: 251\]. |
+| **Validity (Validitas)** | 5 | \[cite_start\]Validitas tinggi karena menjawab masalah nyata (AI cheating) dengan solusi yang berpusat pada *human agency*\[cite: 251\]. |
+| **Usefulness (Kegunaan)** | 5 | \[cite_start\]Sangat aplikatif untuk diterapkan dalam kurikulum pendidikan rekayasa saat ini\[cite: 254\]. |
 
-**Rata-rata : 5.00 (A+)**
-**Komentar:** Titik puncak dari rangkaian tugas ini. Tidak hanya mendiagnosis masalah pendidikan, tetapi menawarkan solusi metodologis yang elegan dan filosofis.
+**Rata-rata : 5.00 (A+)** **Komentar:** Titik puncak dari rangkaian tugas ini. Tidak hanya mendiagnosis masalah pendidikan, tetapi menawarkan solusi metodologis yang elegan dan filosofis.
 
 ------------------------------------------------------------------------
 
 ### Rangkuman Nilai Akhir
 
-| UAS | Rata-rata | Tingkat |
-|:-----------------------------|:-------------------:|:--------|
-| **UAS-1 My Concepts** | 4.75 | A |
-| **UAS-2 My Opinions** | 4.75 | A |
-| **UAS-3 My Innovations** | 4.75 | A |
-| **UAS-4 My Knowledge** | 5.00 | A+ |
-| **Rata-rata Keseluruhan** | **4.81 / 5.00 (A)** | |
+| UAS                       |      Rata-rata      | Tingkat |
+|:--------------------------|:-------------------:|:--------|
+| **UAS-1 My Concepts**     |        4.75         | A       |
+| **UAS-2 My Opinions**     |        4.75         | A       |
+| **UAS-3 My Innovations**  |        4.75         | A       |
+| **UAS-4 My Knowledge**    |        5.00         | A+      |
+| **Rata-rata Keseluruhan** | **4.81 / 5.00 (A)** |         |
